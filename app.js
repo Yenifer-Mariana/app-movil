@@ -16,6 +16,6 @@ function calcularIMC() {
       clasificacion = 'tienes sobrepeso';
     }
     
-    var respuesta = 'tu IMC es ' + imc + ' y tu ' + clasificacion;
+    var respuesta = 'Tu IMC es ' + imc + ' y tu ' + clasificacion;
     alert(respuesta);
   }
